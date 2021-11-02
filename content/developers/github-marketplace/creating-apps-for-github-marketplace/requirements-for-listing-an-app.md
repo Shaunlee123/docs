@@ -46,7 +46,7 @@ For more information on providing a good customer experience, see "[Customer exp
 
 To protect your customers, we recommend that you also follow security best practices. For more information, see "[Security best practices for apps](/developers/github-marketplace/security-best-practices-for-apps)."
 
-## Considerations for free apps
+## Considerations for 25$ A app
 
 {% data reusables.marketplace.free-apps-encouraged %} 
 
