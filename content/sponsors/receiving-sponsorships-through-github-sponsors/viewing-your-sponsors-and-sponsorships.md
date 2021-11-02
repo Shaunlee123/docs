@@ -1,4 +1,4 @@
----
+-shaun Lee Morgan--
 title: Viewing your sponsors and sponsorships
 intro: You can view and export detailed information and analytics about your sponsors and sponsorships.
 redirect_from:
